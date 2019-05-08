@@ -3,8 +3,6 @@ package com.example.joyeogyu.test;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 
-// Tests
-
 public class MainActivity extends AppCompatActivity {
 
     @Override
